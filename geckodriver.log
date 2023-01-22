@@ -54,3 +54,14 @@ DevTools listening on ws://127.0.0.1:54674/devtools/browser/3434d670-fc80-4422-b
 JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
 1668085453130	Marionette	INFO	Stopped listening on port 54683
 [Parent 6944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1674415765699	geckodriver	INFO	Listening on 127.0.0.1:49775
+1674415768820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\danaf\\AppData\\Local\\Temp\\rust_mozprofileF0sH1r"
+1674415770134	Marionette	INFO	Marionette enabled
+1674415770146	Marionette	INFO	Listening on port 49786
+Read port: 49786
+WebDriver BiDi listening on ws://127.0.0.1:49776
+1674415770356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\danaf\\AppData\\Local\\Temp\\rust_mozprofileF0sH1r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49776/devtools/browser/dbd871c5-9537-43c0-af0c-644ff8110d5d
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1674415779253	Marionette	INFO	Stopped listening on port 49786

@@ -20,7 +20,7 @@ import unittest  #  am importat toata libraria unittest
 import HTMLTestRunner
 
 from TestareAutomataWeb_Selenium.tema_09 import Login
-from TestareAutomataWeb_Selenium.tema_10.test_2_firefox import Firefox
+from TestareAutomataWeb_Selenium.tema_10.test_firefox import Firefox
 from TestareAutomataWeb_Selenium.tema_10.test_context_menu import ContextMenu
 from TestareAutomataWeb_Selenium.tema_10.test_keys import Keyboard
 from TestareAutomataWeb_Selenium.tema_10.test_auth import Authentication
